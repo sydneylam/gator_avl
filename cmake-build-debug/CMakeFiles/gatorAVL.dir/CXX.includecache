@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/slam/CLionProjects/gatorAVL/AVLTree.h
+vector
+-
+Node.h
+/Users/slam/CLionProjects/gatorAVL/Node.h
+string
+-
+
+/Users/slam/CLionProjects/gatorAVL/Node.h
+string
+-
+
+/Users/slam/CLionProjects/gatorAVL/main.cpp
+iostream
+-
+string
+-
+vector
+-
+regex
+-
+AVLTree.h
+/Users/slam/CLionProjects/gatorAVL/AVLTree.h
+
